@@ -262,11 +262,6 @@ body {
   color: white;
   position: relative;
   overflow: hidden;
-  transition : transform 0.5s ease-in-out;
-}
-
-.hero-section:hover {
-transform: scale(1.1);
 }
 
 .overlay {

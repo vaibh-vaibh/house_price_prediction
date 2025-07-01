@@ -2,7 +2,7 @@ import React from 'react';
 
 const Image = () => {
   return (
-    <section className="hero-section mt-5">
+    <section className="hero-section">
       <div className="overlay"></div>
       <div className="container hero-content">
         <div className="row align-items-center">

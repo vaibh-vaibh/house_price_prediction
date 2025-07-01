@@ -3,7 +3,7 @@ import React from 'react';
 const Exploring = () => {
     return (
         <>
-            <h6 className="mt-5 heading p-5">GET STARTED WITH EXPLORING REAL ESTATE OPTIONS</h6>
+            <h6 className=" heading p-5">GET STARTED WITH EXPLORING REAL ESTATE OPTIONS</h6>
 
             <div className="container mt-4">
                 <div className="scroll-container">
